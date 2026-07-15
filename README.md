@@ -2,6 +2,7 @@
 ## My name is Fernando Carneiro and my nickname is Nando!
 
 -🔭 I’m currently working on I'm searching for my first tech job.
+
 -🌱 I’m currently learning I am currently focusing on Python and back-end development.
 
 ## Ferramentas e Tecnologias
