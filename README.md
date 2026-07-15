@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Fernando Carneiro and my nickname is Nando!
 
-🔭 I’m currently working on I'm searching for my first tech job.
-🌱 I’m currently learning I am currently focusing on Python and back-end development.
+-🔭 I’m currently working on I'm searching for my first tech job.
+-🌱 I’m currently learning I am currently focusing on Python and back-end development.
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
